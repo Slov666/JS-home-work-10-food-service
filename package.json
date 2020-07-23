@@ -14,12 +14,12 @@
     "url": "git+https://github.com/luxplanjay/webpack-starter-kit.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Slava Ohorodnik <teatrgsc@gmail>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://github.com/luxplanjay/webpack-starter-kit#readme",
+  "homepage": "https://github.com/Slov666/JS-home-work-10-food-service",
   "devDependencies": {
     "@babel/core": "^7.10.5",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
